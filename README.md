@@ -7,6 +7,8 @@ This is ***both*** text.
 ###### How big is this header?
 
 Link to [apple web site](https://www.apple.com)
+Here is thor ![Image of thor](01Thor.jpg)
+
 ---
 
 
